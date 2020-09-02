@@ -19,21 +19,21 @@ Each team should answer the questions and fill in the details below. Remember th
 Date: 
 
 * Team name and focus: 
-* Team type: 
-* Part of a Platform? (y/n) Details:
-* Do we provide a service to other teams? (y/n) Details: 
+* Team type: Stream-Aligned
+* Part of a Platform? (y/n) Details: PEC
+* Do we provide a service to other teams? (y/n) Details: Grid MPI 
 * What kind of Service Level Expectations do other teams have of us? 
-* Software owned and evolved by this team: 
-* Versioning approaches: 
-* Wiki search terms: 
-* Chat tool channels: #_____________ #_____________ #_____________
-* Time of daily sync meeting: 
+* Software owned and evolved by this team: PEC
+* Versioning approaches: SemVer
+* Wiki search terms: Developers Documentation, Caching, PEC Architecture
+* Chat tool channels: #DEV_PW #react #_____________
+* Time of daily sync meeting: 11:30 ET
 
 > Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
 
 ### What we're currently working on
 
-* Our services and systems:
+* Our services and systems: Patient GRID API
 * Ways of working: 
 * Wider cross-team or organisational improvements: 
 
@@ -41,8 +41,8 @@ Date:
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-| .               |                  |         |          |
-| .               |                  |         |          |
+| . Platform Services |                  |         |          |
+| . MDS           |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
